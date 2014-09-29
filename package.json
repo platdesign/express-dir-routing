@@ -1,0 +1,9 @@
+{
+  "name": "express-dir-routing",
+  "description":"A new project by platdesign.de",
+  "version": "0.0.0",
+  "dependencies": {
+  	"express": "~4.2.0"
+  },
+  "repository":""
+}
